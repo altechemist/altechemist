@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I’m Karabelo Nthoroane
 
-<!--
-**altechemist/altechemist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Software Engineer | Full-Stack Developer | Mobile App Enthusiast
 
-Here are some ideas to get you started:
+Motivated and collaborative Software Engineer with experience in full-stack web and mobile development. I specialize in creating clean, user-centered solutions using modern tech stacks like React, Firebase, Django, and Flutter. Passionate about continuous learning, building impactful applications, and thriving in fast-paced, agile environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🔭 I’m currently working on **cross-platform mobile apps using React Native and Flutter**
+- 🌱 I’m currently learning **advanced DevOps practices and scalable backend architectures**
+- 👯 I’m looking to collaborate on **open-source projects, startups, or SaaS tools**
+- 🤔 I’m looking for help with **backend scaling strategies (Firebase vs. custom APIs)**
+- 💬 Ask me about **React.js, Firebase, Django, and building MVPs**
+- 📫 How to reach me: **karabelonthoroane@gmail.com** | [LinkedIn](https://linkedin.com/in/karabelonthoroane)
+- ⚡ Fun fact: **I’ve built both hardware setups and software apps for local entrepreneurs!**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+`Python` `Java` `TypeScript` `SQL` `Dart`
+
+**Frameworks & Libraries:**  
+`React.js` `React Native` `Flutter` `Django`
+
+**Databases:**  
+`Firebase` `MongoDB (Mongoose)` `SQL`
+
+**Tools & DevOps:**  
+`Git` `GitHub` `GitHub Actions` `Firebase Hosting`
+
+---
+
+### 📜 Certifications
+
+- React Basics – Meta  
+- Version Control & GitHub – Meta, Google, Packt  
+- DevOps and Git Foundations – Packt  
+- Front-End & Mobile Development – Meta  
+- Python Programming – University of Michigan  
+- Web App Technologies & Django – University of Michigan  
+
+---
+
+### 📈 GitHub Stats
+
+![Karabelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=altechemist&show_icons=true&count_private=true&theme=default)
+
+---
+
+### 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/karabelonthoroane)
+[![GitHub](https://img.shields.io/badge/GitHub-@altechemist-black?logo=github)](https://github.com/altechemist)
+
